@@ -11,7 +11,8 @@ A simple web application to convert between common metric and imperial units for
 * Uses a clean, mobile-friendly design.
 * Results are displayed with three decimal places for precision.
 
-<img width="1203" height="1051" alt="Untitled" src="https://github.com/user-attachments/assets/72fb8360-d893-43ab-9501-3b2a4026b260" />
+<img width="1272" height="767" alt="image" src="https://github.com/user-attachments/assets/10fde445-9948-4da5-961a-adaa853501e1" />
+
 
 
 ## Getting Started 🚀
