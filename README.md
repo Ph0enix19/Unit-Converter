@@ -13,44 +13,6 @@ A simple web application to convert between common metric and imperial units for
 
 <img width="1272" height="767" alt="image" src="https://github.com/user-attachments/assets/10fde445-9948-4da5-961a-adaa853501e1" />
 
-
-
-## Getting Started 🚀
-
-### Prerequisites
-
-To run this project locally, you will need **Node.js** and **npm** (Node Package Manager) installed on your machine.
-
-### Installation
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [Your Repository URL]
-    cd [Your Project Folder Name]
-    ```
-
-2.  **Install dependencies:**
-    This project uses **Vite** as a development server and build tool.
-    ```bash
-    npm install
-    ```
-
-3.  **Run the project:**
-    This command starts the development server, usually at `http://localhost:5173`.
-    ```bash
-    npm start
-    ```
-    or
-    ```bash
-    npm run dev
-    ```
-
-4.  **Build for production:**
-    This command compiles the project into the `dist` folder.
-    ```bash
-    npm run build
-    ```
-
 ## Project Structure 📁
 
 | File/Folder | Description |
