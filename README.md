@@ -11,6 +11,8 @@ A simple web application to convert between common metric and imperial units for
 * Uses a clean, mobile-friendly design.
 * Results are displayed with three decimal places for precision.
 
+<img width="1203" height="1051" alt="Untitled" src="https://github.com/user-attachments/assets/72fb8360-d893-43ab-9501-3b2a4026b260" />
+
 
 ## Getting Started 🚀
 
@@ -65,12 +67,3 @@ The following constants are used in `index.js` for conversions:
 * $1 \text{ meter} = 3.281 \text{ feet}$
 * $1 \text{ liter} = 0.264 \text{ gallon}$
 * $1 \text{ kilogram} = 2.204 \text{ pounds}$
-
-## License 📄
-
-This project is licensed under the MIT License - see the `LICENSE.md` file (if you create one) for details.
-
-## Credits 🙏
-
-This project was developed as part of a Scrimba course.
-* [Scrimba - Fullstack Developer Path](https://scrimba.com/fullstack-path-c0fullstack)
